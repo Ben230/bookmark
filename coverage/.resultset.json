@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Desktop/gitprojects/bookmark/spec/features/index_spec.rb": [
+      "/Users/student/Desktop/gitprojects/Bookmark_Manager/spec/features/index_spec.rb": [
         1,
         1,
         1,
@@ -9,7 +9,7 @@
         null,
         null
       ],
-      "/Users/student/Desktop/gitprojects/bookmark/spec/features/view_bookmarks_spec.rb": [
+      "/Users/student/Desktop/gitprojects/Bookmark_Manager/spec/features/view_bookmarks_spec.rb": [
         1,
         1,
         1,
@@ -20,6 +20,6 @@
         null
       ]
     },
-    "timestamp": 1572881461
+    "timestamp": 1572882206
   }
 }

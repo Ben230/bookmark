@@ -1,6 +1,6 @@
 require 'sinatra/base'
 
-class Bookmark < Sinatra::Base
+class BookmarkManager < Sinatra::Base
 
   get '/' do
     erb :index
