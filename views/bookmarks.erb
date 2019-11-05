@@ -1,3 +1,5 @@
-Google
-<br>
-Youtube
+<ul>
+  <% @bookmark.each do |bookmark| %>
+  <li><%= bookmark %>
+  <% end %>
+</ul>
